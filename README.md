@@ -9,14 +9,10 @@
 ---
 
 * [简体中文在线阅读](https://xieanshuo.github.io/dream/zh/index.html)
-  * [下载PDF](https://www.gitbook.com/download/pdf/book/xieanshuo/dream?lang=zh) |   [下载Mobi](https://www.gitbook.com/download/mobi/book/xieanshuo/dream?lang=zh) |   [下载ePub](https://www.gitbook.com/download/epub/book/xieanshuo/dream?lang=zh)
 
 * [繁体中文在線閱讀](https://xieanshuo.github.io/dream/tw/index.html)
-  * [下載PDF](https://www.gitbook.com/download/pdf/book/xieanshuo/dream?lang=tw) |   [下載Mobi](https://www.gitbook.com/download/mobi/book/xieanshuo/dream?lang=tw) |   [下載ePub](https://www.gitbook.com/download/epub/book/xieanshuo/dream?lang=tw)
-
 
 * [English](https://xieanshuo.github.io/dream/en/index.html)
-  * [Download PDF](https://www.gitbook.com/download/pdf/book/xieanshuo/dream?lang=en) |   [Download Mobi](https://www.gitbook.com/download/mobi/book/xieanshuo/dream?lang=en) |    [Download Epub](https://www.gitbook.com/download/epub/book/xieanshuo/dream?lang=en)
 
 ---
 ## 版权声明
